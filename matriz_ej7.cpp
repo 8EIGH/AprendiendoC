@@ -1,4 +1,6 @@
-//	DEVELOPED BY 8EIGH	//
+/*
+*	@author: 8EIGH
+*/
 
 
 /*7. Desarrollar un programa que determine si una matriz es simetrica o no.
