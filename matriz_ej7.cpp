@@ -1,3 +1,6 @@
+//	DEVELOPED BY 8EIGH	//
+
+
 /*7. Desarrollar un programa que determine si una matriz es simetrica o no.
 Una matriz es simetrica si es cuadrada y si es igual a su matriz transpuesta.*/
 
