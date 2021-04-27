@@ -1,7 +1,12 @@
+/*
+*       @author: 8EIGH
+*/
+
+
 /*Vamos a declarar lo que son y como se usan los arrays
 1. Todos los arrays empiezan con el indice 0, despues 1,2,3...
 almacenamos en cada uno un numero o palabra, pero no podemos mezclar
-2. Para definirlos sera tipo(int,char, float) nombre [tamaño]
+2. Para definirlos sera tipo(int,char, float) nombre [tamaÃ±o]
 
 */
 /*Ejercicio 1. Escribe un programa que defina un array de numeros y calcule la suma de
